@@ -10,6 +10,6 @@ Word search puzzle adalah permainan kata dimana pemain harus menemukan beberapa 
 
 ## Cara Menjalankan Program
 
-1. Download file zip program kemudian masuk ke dalam direktori folder zip dan ketikkan command ```g++ src/main.cpp -o bin/run``` pada terminal
+1. Download file zip program kemudian masuk ke dalam direktori folder zip dan ketikkan command ```g++ src/main.cpp -o bin/run``` pada terminal yang telah support ansi color
 2. Masukkan command ```./bin/run``` pada terminal untuk menjalankan program
 3. Masukkan nama file input yang telah berada dalam folder test
